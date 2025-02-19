@@ -1,0 +1,7 @@
+This folder has all the finetuned NER models for:
+
+1. cell type recognition - GENIA
+
+2. gene recognition - BioNLP13PC
+
+3. disease recognition - NCBI
